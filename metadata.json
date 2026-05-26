@@ -1,0 +1,8 @@
+{
+  "name": "HermesAgent Clone",
+  "description": "A clone of the Hermes Agent website by Nous Research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
